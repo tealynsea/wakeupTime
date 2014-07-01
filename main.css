@@ -41,13 +41,54 @@
 
 .clock-screen {
 
-background-color: red;
+background-color: #484848;
 width: 573px;
 height: 308px;
 position: absolute;
-margin-top: 258px;
+margin-top: -258px;
 margin-left: 125px;
 float: right;
 
 }
+
+.clock-text {
+
+color: red;
+position: absolute;
+padding: 30px;
+font-size: 192px;
+
+}
+
+
+
+.am-lable {
+
+color: white;
+font-size: 20px;
+position: absolute;
+word-spacing: 30px;
+
+}
+
+.fm-lable {
+
+color: white;
+font-size: 20px;
+position: absolute;
+word-spacing: 30px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
 
