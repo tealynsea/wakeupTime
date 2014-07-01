@@ -1,0 +1,53 @@
+.container {
+	  
+}
+
+
+
+
+
+.outer-shell {
+
+	background-color: #505050;
+	width: 815px;
+	height: 391px;
+	margin: 100px 350px;
+	position: relative;
+}
+
+.inner-shell {
+
+	width: 698px;
+	height: 308px;
+	background-color: black;
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 61px;
+
+}
+
+.time-labels {
+
+	width: 125px;
+	height: 308px;
+	background-color: gray;
+	color: white;
+	font-size: 10px;
+	position: absolute;
+	text-align: center;
+	font-size: 37px;
+
+}
+
+.clock-screen {
+
+background-color: red;
+width: 573px;
+height: 308px;
+position: absolute;
+margin-top: 258px;
+margin-left: 125px;
+float: right;
+
+}
+
